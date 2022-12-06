@@ -1,0 +1,15 @@
+/Users/Sarah/Desktop/code/sum/sum/bin/Debug/net6.0/sum
+/Users/Sarah/Desktop/code/sum/sum/bin/Debug/net6.0/sum.deps.json
+/Users/Sarah/Desktop/code/sum/sum/bin/Debug/net6.0/sum.runtimeconfig.json
+/Users/Sarah/Desktop/code/sum/sum/bin/Debug/net6.0/sum.dll
+/Users/Sarah/Desktop/code/sum/sum/bin/Debug/net6.0/sum.pdb
+/Users/Sarah/Desktop/code/sum/sum/obj/Debug/net6.0/sum.csproj.AssemblyReference.cache
+/Users/Sarah/Desktop/code/sum/sum/obj/Debug/net6.0/sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sarah/Desktop/code/sum/sum/obj/Debug/net6.0/sum.AssemblyInfoInputs.cache
+/Users/Sarah/Desktop/code/sum/sum/obj/Debug/net6.0/sum.AssemblyInfo.cs
+/Users/Sarah/Desktop/code/sum/sum/obj/Debug/net6.0/sum.csproj.CoreCompileInputs.cache
+/Users/Sarah/Desktop/code/sum/sum/obj/Debug/net6.0/sum.dll
+/Users/Sarah/Desktop/code/sum/sum/obj/Debug/net6.0/refint/sum.dll
+/Users/Sarah/Desktop/code/sum/sum/obj/Debug/net6.0/sum.pdb
+/Users/Sarah/Desktop/code/sum/sum/obj/Debug/net6.0/sum.genruntimeconfig.cache
+/Users/Sarah/Desktop/code/sum/sum/obj/Debug/net6.0/ref/sum.dll
